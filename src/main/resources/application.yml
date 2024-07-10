@@ -1,0 +1,10 @@
+dimensions:
+  hauteur: 100
+  largeur: 100
+casesEnFeu:
+  - [50, 80]
+  - [30, 10]
+  - [20, 40]
+  - [60, 99]
+probabilite:
+  p: 0.6
